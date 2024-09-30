@@ -1,7 +1,1 @@
-```rust
-~ > fetch
-
-usr - soup_so2
-langs - C, Go
-likes - dumplings, rain, cats
-```
+![](./Kuriyama_Mirai_flips_through_The_C_Programming_Language.gif)
